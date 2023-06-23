@@ -1,0 +1,11 @@
+C:\Users\super\source\repos\Chis5\Chis5\bin\Debug\Chis5.exe.config
+C:\Users\super\source\repos\Chis5\Chis5\bin\Debug\Chis5.exe
+C:\Users\super\source\repos\Chis5\Chis5\bin\Debug\Chis5.pdb
+C:\Users\super\source\repos\Chis5\Chis5\obj\Debug\Chis5.csproj.AssemblyReference.cache
+C:\Users\super\source\repos\Chis5\Chis5\obj\Debug\Chis5.csproj.SuggestedBindingRedirects.cache
+C:\Users\super\source\repos\Chis5\Chis5\obj\Debug\Chis5.Form1.resources
+C:\Users\super\source\repos\Chis5\Chis5\obj\Debug\Chis5.Properties.Resources.resources
+C:\Users\super\source\repos\Chis5\Chis5\obj\Debug\Chis5.csproj.GenerateResource.cache
+C:\Users\super\source\repos\Chis5\Chis5\obj\Debug\Chis5.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\Chis5\Chis5\obj\Debug\Chis5.exe
+C:\Users\super\source\repos\Chis5\Chis5\obj\Debug\Chis5.pdb
